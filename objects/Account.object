@@ -152,6 +152,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Copado_Test_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Copado Test Field</label>
+        <length>123</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Cox_Automotive_Demo_Field__c</fullName>
         <externalId>false</externalId>
         <label>Cox Automotive Demo Field</label>
