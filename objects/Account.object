@@ -460,6 +460,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>No_Way_Jose__c</fullName>
+        <externalId>false</externalId>
+        <label>No Way Jose</label>
+        <length>6</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
