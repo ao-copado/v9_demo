@@ -113,7 +113,7 @@
         <fullName>Alm_Brand_Mock_Field__c</fullName>
         <externalId>false</externalId>
         <label>Alm Brand Mock Field</label>
-        <length>1</length>
+        <length>255</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
