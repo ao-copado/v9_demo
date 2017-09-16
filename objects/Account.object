@@ -134,6 +134,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>BP_Testing_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>BP Testing Field</label>
+        <length>85</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Back_Promote_Test__c</fullName>
         <externalId>false</externalId>
         <label>Back Promote Test</label>
@@ -176,6 +186,16 @@
         <externalId>false</externalId>
         <label>CocaCola Custom Field</label>
         <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Copado_BP_Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Copado BP Test</label>
+        <length>199</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
@@ -553,6 +573,16 @@
         <fullName>Salesforce_Demo_Field__c</fullName>
         <externalId>false</externalId>
         <label>Salesforce Demo Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Salesforce_Kone__c</fullName>
+        <externalId>false</externalId>
+        <label>Salesforce-Kone</label>
         <length>255</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
