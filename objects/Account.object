@@ -168,6 +168,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Biomerieux_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Biomerieux Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CBM_init_field__c</fullName>
         <externalId>false</externalId>
         <label>CBM init field</label>
