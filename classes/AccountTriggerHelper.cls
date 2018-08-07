@@ -3,7 +3,7 @@ public class AccountTriggerHelper {
     public static void createDescription (List<Account> Lacc) {
         
         for (Account acc: Lacc) {
-            acc.Description = acc.Name + ' Salesforce';
+            acc.Description = acc.Name + ' Extra description automated';
         }
     }
 }
