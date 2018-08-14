@@ -68,6 +68,16 @@
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <fields>
+        <fullName>AQR_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>AQR Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Accenture_JDE_Field__c</fullName>
         <externalId>false</externalId>
         <label>Accenture JDE Field</label>
