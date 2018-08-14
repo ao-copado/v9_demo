@@ -78,6 +78,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Accenture_JDE_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Accenture JDE Field</label>
+        <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
